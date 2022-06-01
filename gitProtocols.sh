@@ -15,6 +15,7 @@ read p
 if [ $p == 0099 ]
 then
 echo "Welcome Bank of America Customer"
+echo "Your business is highly appreciated"
 else
 echo "Sorry unable to access your accounts at this time. Please contact customerservice at 1800BANKUSA"
 fi
