@@ -5,4 +5,4 @@ read firstName
 echo Please enter your last name
 read lastName
 echo Welcome
-echo Finish
+echo Finish.
